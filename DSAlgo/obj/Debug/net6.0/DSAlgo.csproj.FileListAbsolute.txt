@@ -1,0 +1,15 @@
+D:\Repositories\Personal\DSAlgo\DSAlgo\bin\Debug\net6.0\DSAlgo.exe
+D:\Repositories\Personal\DSAlgo\DSAlgo\bin\Debug\net6.0\DSAlgo.deps.json
+D:\Repositories\Personal\DSAlgo\DSAlgo\bin\Debug\net6.0\DSAlgo.runtimeconfig.json
+D:\Repositories\Personal\DSAlgo\DSAlgo\bin\Debug\net6.0\DSAlgo.dll
+D:\Repositories\Personal\DSAlgo\DSAlgo\bin\Debug\net6.0\DSAlgo.pdb
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.csproj.AssemblyReference.cache
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.AssemblyInfoInputs.cache
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.AssemblyInfo.cs
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.csproj.CoreCompileInputs.cache
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.dll
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\refint\DSAlgo.dll
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.pdb
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\DSAlgo.genruntimeconfig.cache
+D:\Repositories\Personal\DSAlgo\DSAlgo\obj\Debug\net6.0\ref\DSAlgo.dll
